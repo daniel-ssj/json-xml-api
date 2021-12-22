@@ -26,6 +26,7 @@
 
     /* API */
 
+    # API que retorna dados de atores de series
     function find_actor($name) {
         # utiliza-se as funções curl para fazer requisições HTTP no PHP
         # função para inicializar
